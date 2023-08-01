@@ -1,6 +1,6 @@
 # Random-Dog-Image
 
-This a Node.js project where Random Dog Images is been generated.
+This a Node.js project where Random Dog Images is been generated using Public API.
 
 Step 1: Download the Project and Extract it.
 
